@@ -56,13 +56,13 @@
 }
 
 /*Contact section*/
-.contact {
-  background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.65)),
-  url('https://i.pinimg.com/736x/27/03/18/27031891b305b4a11e122446c57914c2.jpg');
+.Contact {
+  background: url('https://i.pinimg.com/736x/27/03/18/27031891b305b4a11e122446c57914c2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 100vh;
+
 }
 
 /*Activity card*/
